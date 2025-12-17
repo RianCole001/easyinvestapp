@@ -1,0 +1,2 @@
+# easyinvestapp
+ An ivestment platform
